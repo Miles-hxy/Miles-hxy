@@ -1,6 +1,6 @@
-# Hello, I'm [Your Name] 👋
+### Hi there, I am Li Jianan👋
 
-Welcome to my GitHub profile! I'm a [Your Profession] passionate about [Your Interests].
+> A Front end developer from **Beijing, China**.
 
 - 🔭 I’m currently working on [Project Name]
 - 🌱 I’m currently learning [Technology/Skill]
