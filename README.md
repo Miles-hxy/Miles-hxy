@@ -1,6 +1,11 @@
 ### Hi there, I am Alex.hu👋
 
 > A Front end developer from **Beijing, China**.
+> 
+### 📊 Stats:
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Alex-huxiyang&show_icons=true&theme=buefy&hide_border=true" alt="" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-huxiyang&layout=compact&theme=buefy&hide_border=true" alt="" /> |
+| ----------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 ### 📈 Activity Graph:
 
