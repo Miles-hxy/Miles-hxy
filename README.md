@@ -1,4 +1,4 @@
-## Hi there, I am Alex.hu 🚀
+## Hi there, I am Miles.hu 🚀
 
 > A Front end developer from **Beijing, China**.
 > 
@@ -9,7 +9,7 @@
 
 ### Activity Graph:
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Alex-huxiyang&theme=react-dark)](https://github.com/Alex-huxiyang/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Miles-hxy&theme=react-dark)](https://github.com/Alex-huxiyang/github-readme-activity-graph)
 
 ### Stats:
 
