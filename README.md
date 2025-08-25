@@ -1,6 +1,6 @@
 ## Hi there, I am Miles.hu 🚀
 
-> A Front end developer from **Beijing, China**.
+> A Front-end Developer from **Beijing, China**.
 > 
 ### My Skills
 
