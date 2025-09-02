@@ -1,4 +1,4 @@
-## Hi there, I am Miles 🚀
+## Hi, I'm Miles 🚀
 
 > A Front-end Developer from **Beijing, China**.
 > 
